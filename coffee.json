@@ -1,0 +1,23 @@
+[
+  { "img": "americano",
+    "name": "Americano",
+    "desc": "Coffee americano.",
+    "price": 4.5
+  },
+  { "img": "espresso",
+    "name": "Espresso",
+    "desc": "Espresso desc.",
+    "price": 5.25
+  },
+  { "img": "latte",
+    "name": "Latte",
+    "desc": "Coffee latte.",
+    "price": 5.5
+  },
+  { "img": "cappuccino",
+    "name": "Cappuccino",
+    "desc": "Cappuccino.",
+    "price": 5.5
+  }
+
+]

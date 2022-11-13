@@ -1,0 +1,44 @@
+[
+  { "img": "r",
+    "name": "Baguette",
+    "desc": "Small-batch sourdough baguette.",
+    "price": 4.5
+  },
+  { "img": "rr",
+    "name": "Farmin Bread",
+    "desc": "Farmhouse bread with a hint of rosemary.",
+    "price": 5.25
+  },
+  { "img": "j",
+    "name": "Cheese Bread",
+    "desc": "Bread with a hint of rosemary and cheese.",
+    "price": 5.5
+  },
+  { "img": "hh",
+    "name": "Mixed Grain",
+    "desc": "Mixed grain bread with a hint of rosemary.",
+    "price": 5.25
+  },
+  { "img": "hg",
+    "name": "Milk Bread",
+    "desc": " a soft, white bread with a slightly sweet taste. It is often used in sandwiches and toast.",
+    "price": 3.55
+  },
+  { "img": "jhjhjh",
+    "name": "Brown Bread",
+    "desc": "Brown bread with a hint of rosemary.",
+    "price": 2.45
+  },
+  { "img": "ghghe4",
+    "name": "Croissant",
+    "desc": "Croissant with a hint of rosemary.",
+    "price": 1.8
+  },
+  { "img": "rtrtrt",
+    "name": "Cinnabon",
+    "desc": "Cinnabon is a chain of cinnamon rolls and other baked goods.",
+    "price": 1.5
+  }
+
+
+]
